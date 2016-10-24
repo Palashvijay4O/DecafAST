@@ -1,0 +1,49 @@
+
+// class Program
+class Program{
+
+    // FIELD DECLARATIONS
+    int x[7], i, y, z;
+    boolean de, v[9];
+    int dp[10];
+
+    /*
+    * int foo
+    * @param int, boolean, int
+    */ 
+    int foo(int x, boolean y, int z){
+        int a, b, c;
+        d = 5;
+        hello = fo + 'a';
+        foo(d + '5', bonda, (4 + 6 * 0x25AF), (foo(10, 15)));
+        callout("bonda", d + 5);
+        if(x == 5) { int a; d = 5; continue;}
+        if(d[5] == 5) {foo[10] += 10; } else{ int foo;  foo(d <= 5, f != 6); }
+        for i = 0, i <= callout("sort", 1, 2, 3){
+            int a;
+            d = 5;
+            break ;
+            i += 1;
+            d[25/2 == 9] = 5 || 4 && -9;
+            foo(!1, 2 + 3);
+        }
+        return 5;
+    }
+
+    void fib(int n){
+        if(n < 0) { return; }
+        if(dp[n] != -1){ return; }
+        else{
+            fib(n - 1);
+            callout("fib", n - 2);
+            dp[n] = dp[n-1] + dp[n-2];
+            return; 
+        }
+    }
+
+    int gcd(int a, int b){
+        if(b == 0){ return a;}
+        return gcd(b, a%b);
+    }
+
+}
